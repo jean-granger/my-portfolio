@@ -34,7 +34,7 @@ const Hero = () => {
       >
         {/* View Resume Button */}
         <motion.a
-          href="/PROFESSIONALCV-JEANANGEEMMANUEL.pdf"
+          href="/my-portfolio/PROFESSIONALCV-JEANANGEEMMANUEL.pdf"
           target='_blank'
           whileHover={{ scale: 1.05, y: -2 }}
           whileTap={{ scale: 0.95 }}
