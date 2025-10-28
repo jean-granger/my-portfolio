@@ -4,8 +4,8 @@ import Hero from './Components/Hero';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import About from './components/About';
-import Contact from './Components/Contact';
-import Footer from './Components/Footer';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 import Certifications from './components/Certifications';
 
 export default function App() {
