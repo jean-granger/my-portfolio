@@ -33,19 +33,19 @@ const Certifications = () => {
     {
       title: "Introduction to Artificial Intelligence(AI)",
       issuer: "IBM SkillsBuild",
-      link: "https://drive.google.com/your-python-certificate-link", 
+      link: "https://drive.google.com/availableSoon", 
       category: "AI"
     },
     {
       title: "AI/ML Virtual Internship",
       issuer: "ShadowFox",
-      link: "https://drive.google.com/your-python-certificate-link", 
+      link: "https://drive.google.com/availableSoon", 
       category: "AI & ML"
     },
     {
       title: "AI & ML Engineering Professional Cerificate",
       issuer: "Microsoft",
-      link: "https://drive.google.com/your-python-certificate-link", 
+      link: "https://drive.google.com/AvailableSoon", 
       category: "AI Professional"
     },
   ];

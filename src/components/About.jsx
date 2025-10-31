@@ -4,7 +4,7 @@ import ProfilePhoto from '../assets/photo2.png';
 
 const About = () => {
   const stats = [
-    { icon: <Award className="w-6 h-6" />, value: "10+", label: "ML Projects" },
+    { icon: <Award className="w-6 h-6" />, value: "5+", label: "ML Projects" },
     { icon: <Clock className="w-6 h-6" />, value: "3+", label: "Years Learning" },
     { icon: <Target className="w-6 h-6" />, value: "5+", label: "Technologies" },
     { icon: <Users className="w-6 h-6" />, value: "2", label: "Research Papers" }
