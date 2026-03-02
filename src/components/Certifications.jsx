@@ -30,12 +30,7 @@ const Certifications = () => {
       link: "https://drive.google.com/file/d/1h1mHo_zWZa1Utm9LGEMIF79dFX2kAJm0/view?usp=sharing", 
       category: "Programming"
     },
-    {
-      title: "Introduction to Artificial Intelligence(AI)",
-      issuer: "IBM SkillsBuild",
-      link: "https://drive.google.com/availableSoon", 
-      category: "AI"
-    },
+   
     {
       title: "AI/ML Virtual Internship",
       issuer: "ShadowFox",
@@ -43,10 +38,10 @@ const Certifications = () => {
       category: "AI & ML"
     },
     {
-      title: "AI & ML Engineering Professional Cerificate",
-      issuer: "Microsoft",
+      title: "Artificial Intelligence Fundamentals",
+      issuer: "IBM SkillsBuild",
       link: "https://drive.google.com/AvailableSoon", 
-      category: "AI Professional"
+      category: "AI "
     },
   ];
 

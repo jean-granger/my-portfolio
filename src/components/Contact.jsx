@@ -24,8 +24,8 @@ const Contact = () => {
     {
       icon: <MessageCircle className="w-6 h-6" />,
       platform: "WhatsApp",
-      handle: "+225 01 02 579 579",
-      link: "https://wa.me/2250102579579"
+      handle: "+223 537 374 567",
+      link: "https://wa.me/223537374567"
     }
   ];
 
