@@ -40,7 +40,7 @@ const Certifications = () => {
     {
       title: "Artificial Intelligence Fundamentals",
       issuer: "IBM SkillsBuild",
-      link: "https://drive.google.com/https://drive.google.com/file/d/1grV344jNBu26GrZYSSE3r4bUGHybeQhX/view?usp=drive_link", 
+      link: "https://drive.google.com/file/d/1grV344jNBu26GrZYSSE3r4bUGHybeQhX/view?usp=sharing", 
       category: "AI "
     },
   ];
