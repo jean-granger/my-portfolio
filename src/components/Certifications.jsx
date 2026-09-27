@@ -32,16 +32,16 @@ const Certifications = () => {
     },
    
     {
-      title: "AI/ML Virtual Internship",
-      issuer: "ShadowFox",
-      link: "https://drive.google.com/availableSoon", 
-      category: "AI & ML"
+      title: "AI and Digital Transformation in Government",
+      issuer: "Oxford Saïd Business School / UNESCO",
+      link: "https://drive.google.com/file/d/1O0KhwqeJ9MVXuZc7TujT7Ju7gxlYvnTq/view?usp=drive_link", 
+      category: "AI"
     },
     {
       title: "Artificial Intelligence Fundamentals",
       issuer: "IBM SkillsBuild",
       link: "https://drive.google.com/file/d/1grV344jNBu26GrZYSSE3r4bUGHybeQhX/view?usp=sharing", 
-      category: "AI "
+      category: "AI"
     },
   ];
 

@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-6 text-center">
         
         <p className="text-cyan-100">
-          © 2025 Jean Granger — All Rights Reserved 
+          © 2026 Jean Granger — All Rights Reserved 
     
         </p>
         
