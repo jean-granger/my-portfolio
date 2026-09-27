@@ -7,7 +7,7 @@ const Contact = () => {
       icon: <Mail className="w-6 h-6" />,
       platform: "Email",
       handle: "jeannange001@gmail.com",
-      link: "mailto:jeannange001@gmaul.com"
+      link: "mailto:jeannange001@gmail.com"
     },
     {
       icon: <Github className="w-6 h-6" />,
