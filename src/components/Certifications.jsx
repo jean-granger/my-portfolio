@@ -34,7 +34,7 @@ const Certifications = () => {
     {
       title: "AI and Digital Transformation in Government",
       issuer: "Oxford Saïd Business School / UNESCO",
-      link: "https://drive.google.com/file/d/1O0KhwqeJ9MVXuZc7TujT7Ju7gxlYvnTq/view?usp=drive_link", 
+      link: "https://certify.sbs.ox.ac.uk/21e12ba5-ad99-482c-a963-06d88b9eddff#acc.TLzJ8DQd", 
       category: "AI"
     },
     {
