@@ -15,13 +15,13 @@ const Certifications = () => {
     {
       title: "Cloud Computing Fundamentals", 
       issuer: "IBM SkillsBuild",
-      link: "https://drive.google.com/file/d/1XpJ68d4HI-UDB8aKtkeLtimqvAd7upD-/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1r9qvMnZMgLnBYrKs3tTl9yXRzFSUiOBz/view?usp=sharing",
       category: "Cloud & Infrastructure"
     },
     {
       title: "Cybersecurity Fundamentals",
       issuer: "IBM SkillsBuild", 
-      link: "https://drive.google.com/file/d/1i-utnIrPqPu_N1CY5GlsYxiDdvikeYzD/view?usp=sharing",
+      link: "https://drive.google.com/file/d/10-zyhgTtYfe9hM1qGTRsPcGE06nzMGj9/view?usp=sharing",
       category: "Security"
     },
     {
